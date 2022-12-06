@@ -6,7 +6,7 @@
 
 ## Stakeholders Expectations.
 
-* After examinings the overall scope of the work, business objectives, information the stakeholders are seeking a simple, understandable insights, specifically a dashboard which supports the latest insights from sales revenue and so on, so that they can take actual data driven descision based on this dashboard and insights so they can increase the sales of the company.
+* After examinings the overall scope of the work, business objectives and information, the stakeholders are seeking a simple, understandable insights, specifically a dashboard which supports the latest insights from sales revenue and so on, so that they can take actual data driven descision based on this dashboard and so they can increase the sales of the company.
 
 ## Dataset.
 
