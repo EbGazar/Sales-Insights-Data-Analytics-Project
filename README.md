@@ -12,6 +12,5 @@
 
 * Looking at mysql database that is owned by the company, this database has all sales transactions, customers, products and markets information, using sql queries to do data analysis using the below statments:
 *  `SELECT COUNT(*) FROM sales.transactions;`
-Output:
 
-![image](https://user-images.githubusercontent.com/62806731/206025036-04c8d6e6-a7e1-44bd-966c-f49f3d61f874.png) 
+  ![image](https://user-images.githubusercontent.com/62806731/206025036-04c8d6e6-a7e1-44bd-966c-f49f3d61f874.png) 
