@@ -15,3 +15,8 @@
 `SELECT COUNT(*) FROM sales.transactions;`
 
   ![image](https://user-images.githubusercontent.com/62806731/206025036-04c8d6e6-a7e1-44bd-966c-f49f3d61f874.png) 
+  
+`SELECT * FROM sales.customers LIMIT 5;`
+ 
+ ![image](https://user-images.githubusercontent.com/62806731/206120157-7678249e-95dd-4211-91be-8c9cff93014a.png)
+
