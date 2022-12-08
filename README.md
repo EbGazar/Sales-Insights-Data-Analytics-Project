@@ -19,4 +19,14 @@
 `SELECT * FROM sales.customers LIMIT 5;`
  
  ![image](https://user-images.githubusercontent.com/62806731/206120157-7678249e-95dd-4211-91be-8c9cff93014a.png)
+ 
+`SELECT COUNT(*) FROM sales.customers;`
+
+![image](https://user-images.githubusercontent.com/62806731/206120518-b9f3618f-3d6e-4d0d-bfc1-37c0d22aa3a7.png)
+
+`SELECT * FROM sales.transactions WHERE market_code = 'Mark004';`
+
+![image](https://user-images.githubusercontent.com/62806731/206288933-b831407f-f52c-45a4-a271-28f1e0d8d210.png)
+
+
 
