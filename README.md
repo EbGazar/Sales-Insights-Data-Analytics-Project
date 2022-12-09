@@ -40,7 +40,7 @@
 
 <details>
   
-  <summary> <b> **Click to see more SQL Data Analysis Queries!** </b> </summary>
+  <summary> <b> Click to see more SQL Data Analysis Queries! </b> </summary>
   
    <br/>
   
