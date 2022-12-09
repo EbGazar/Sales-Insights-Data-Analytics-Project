@@ -44,6 +44,13 @@
 
 ![image](https://user-images.githubusercontent.com/62806731/206704761-e2a6740d-3c50-4ad0-8667-1ee00848b631.png)
 
+`SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date = sales.date.date WHERE sales.date.year = 2020 AND sales.date.month_name = 'January' and (sales.transactions.currency="INR\r" or sales.transactions.currency="USD\r");`
+
+![image](https://user-images.githubusercontent.com/62806731/206710339-4ddf3a3c-31bc-4e9b-af6c-1c4b89223253.png)
+
+`SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date = sales.date.date WHERE sales.date.year = 2020 AND sales.date.month_name = 'January' and (sales.transactions.currency="INR\r" or sales.transactions.currency="USD\r") AND sales.transactions.market_code = 'Mark001';`
+
+![image](https://user-images.githubusercontent.com/62806731/206710697-0c7a25dc-98ec-4438-a0c0-fb22c257cc3b.png)
 
 
 
