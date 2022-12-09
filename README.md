@@ -38,6 +38,10 @@
 
 `SELECT sales.transactions.*, sales.date.* FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date = sales.date.date where sales.date.year = 2020;`
 
+<details>
+  
+  <summary> <b> Click to see more details! </b> </summary>
+
 ![image](https://user-images.githubusercontent.com/62806731/206700222-69497ba3-dbaf-4a28-a510-ee73c34ee5e2.png)
 
 `SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date=sales.date.date where sales.date.year=2020 and sales.transactions.currency="INR\r" or sales.transactions.currency="USD\r";`
@@ -52,6 +56,7 @@
 
 ![image](https://user-images.githubusercontent.com/62806731/206710697-0c7a25dc-98ec-4438-a0c0-fb22c257cc3b.png)
 
+</details>
 
 
 
