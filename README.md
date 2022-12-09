@@ -44,7 +44,7 @@ For the data understanding part, using sql to determine data availability and ex
 
 <details>
   
-  <summary> <b> Click to see more SQL Data Analysis Queries! </b> </summary>
+  <summary> <b> Click for more SQL Data Analysis Queries Statements! </b> </summary>
   
    <br/>
   
