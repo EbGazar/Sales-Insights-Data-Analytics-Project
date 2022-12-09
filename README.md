@@ -14,9 +14,7 @@ The data required for the analsis is available at mysql database server that is 
 
 ## Data Understanding.
 
-For the data understanding part, using sql to determine data availability and explore data and it's characteristics.
-
-* *for this part we will strat using SQL Queries Statements
+For the data understanding part, using sql to determine data availability and explore data and it's characteristics, for this part we will strat using SQL Queries Statements:
 
 `SELECT COUNT(*) FROM sales.transactions;`
 
