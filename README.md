@@ -70,7 +70,7 @@
 
 * Start by plugging SQL Databse to MS Power BI, this process is also known as data munging or data wrangling.
 
-  **The result of the Data Cleaning and ETL will be the following:**
+  The result of the Data Cleaning and ETL will be the following:
 
     * currency normalization.
     * handling invalid values.
