@@ -14,19 +14,21 @@
 
 `SELECT COUNT(*) FROM sales.transactions;`
 
-  ![image](https://user-images.githubusercontent.com/62806731/206025036-04c8d6e6-a7e1-44bd-966c-f49f3d61f874.png) 
+![image](https://user-images.githubusercontent.com/62806731/206692756-d8b0f717-c4fc-4ff9-8809-b2087f58f07b.png)
   
 `SELECT * FROM sales.customers LIMIT 5;`
  
- ![image](https://user-images.githubusercontent.com/62806731/206120157-7678249e-95dd-4211-91be-8c9cff93014a.png)
+![image](https://user-images.githubusercontent.com/62806731/206692840-23163a53-e468-42ec-9e2d-4528060e888a.png)
  
 `SELECT COUNT(*) FROM sales.customers;`
 
-![image](https://user-images.githubusercontent.com/62806731/206120518-b9f3618f-3d6e-4d0d-bfc1-37c0d22aa3a7.png)
+![image](https://user-images.githubusercontent.com/62806731/206692926-ffe8b444-74e3-466b-b3e1-fa3c01b7ef33.png)
 
 `SELECT * FROM sales.transactions WHERE market_code = 'Mark004';`
 
-![image](https://user-images.githubusercontent.com/62806731/206288933-b831407f-f52c-45a4-a271-28f1e0d8d210.png)
+![image](https://user-images.githubusercontent.com/62806731/206693013-b2e2b644-e1b9-4791-80e7-fde53d4b46a1.png)
 
+`SELECT distinct product_code FROM sales.transactions WHERE market_code = 'Mark001';`
 
+![image](https://user-images.githubusercontent.com/62806731/206693101-d5e545c6-8671-41ed-aef4-0891a4295789.png)
 
