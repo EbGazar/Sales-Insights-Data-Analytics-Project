@@ -68,7 +68,7 @@
 
 ## Data Cleaning and ETL using Power BI.
 
-* Start by plugging SQL Databse to MS Power BI, this process is also known as data munging or data wrangling.
+* Start by plugging SQL Databse to MS Power BI, this process is also known as data munging or data wrangling, As appear from the SQL Queries the data is messy and contains some inconsistent values as `sales_amount` contains values in both `USD` and `INR` and these values need to be transformed to get the right results from the analysis.
 
   The result of the Data Cleaning and ETL will be the following:
 
