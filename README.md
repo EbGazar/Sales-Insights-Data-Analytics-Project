@@ -36,11 +36,13 @@
 
 ![image](https://user-images.githubusercontent.com/62806731/206694006-3b33e0c6-90f7-4355-b529-6fc936abf7c9.png)
 
-`SELECT sales.transactions.*, sales.date.* FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date = sales.date.date where sales.date.year = 2020;`
+
 
 <details>
   
-  <summary> <b> Click to see more details! </b> </summary>
+  <summary> <b> Click to see more SQL Data Analysis Queries ! </b> </summary>
+  
+`SELECT sales.transactions.*, sales.date.* FROM sales.transactions INNER JOIN sales.date ON sales.transactions.order_date = sales.date.date where sales.date.year = 2020;`
 
 ![image](https://user-images.githubusercontent.com/62806731/206700222-69497ba3-dbaf-4a28-a510-ee73c34ee5e2.png)
 
