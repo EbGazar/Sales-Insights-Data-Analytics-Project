@@ -76,8 +76,8 @@
 
   Start The ETL and Data Cleaning Process using `Power Query` to `connect`, `prepare` and `transform` our data, and the result of using Power Query will be the following:
 
-    * Filtering the markets that only located in India.
-    * Filtering all the `sales_amount` less than `1`.
+   * Filtering the markets that only located in India.
+   * Filtering all the `sales_amount` less than `1`.
 
 
 
