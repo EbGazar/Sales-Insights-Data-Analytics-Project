@@ -70,10 +70,13 @@
 
 * Start by plugging SQL Databse to MS Power BI, this process is also known as data munging or data wrangling, As appear from the SQL Queries the data is messy and contains some inconsistent values as `sales_amount` contains values in both `USD` and `INR` and these values need to be transformed to get the right results from the analysis.
 
-  The result of the Data Cleaning and ETL will be the following:
+* Data Model and Star Schema as shown in Power BI:
 
-    * currency normalization.
-    * handling invalid values.
+![image](https://user-images.githubusercontent.com/62806731/206850732-294698c7-b8cb-43bc-b9a8-0f276127415b.png)
+
+  Start The ETL and Data Cleaning Process using `Power Query` to `connect`, `prepare` and `transform` our data, and the result of using Power Query will be the following:
+
+    * 
 
 
 
