@@ -2,7 +2,7 @@
 
 ## Understanding Business Problem.
 
-* A Hardware Company which supplies computer hardware and peropherals is facing issues with tracking their sales and getting insights (Complete Picture) from the of market Computer Hardware which is growing dramatically.
+* A Hardware Company in India which supplies computer hardware and peropherals is facing issues with tracking their sales and getting insights (Complete Picture) from the of market Computer Hardware which is growing dramatically.
 
 ## Stakeholders Expectations and Business Objectives.
 
@@ -76,7 +76,8 @@
 
   Start The ETL and Data Cleaning Process using `Power Query` to `connect`, `prepare` and `transform` our data, and the result of using Power Query will be the following:
 
-    * 
+    * Filtering the markets that only located in India.
+    * Filtering all the `sales_amount` less than `1`.
 
 
 
