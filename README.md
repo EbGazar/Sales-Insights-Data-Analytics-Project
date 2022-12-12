@@ -79,7 +79,7 @@ For the data understanding part, using sql to determine data availability and ex
 
 Start by plugging SQL Databse to MS Power BI, this process is also known as data munging or data wrangling, As appear from the SQL Queries the data is messy and contains some inconsistent values as `sales_amount` contains values in both `USD` and `INR` and these values need to be transformed to get the right results from the analysis.
 
-Data Model and Star Schema as shown in Power BI:
+- `Data Model and Star Schema as shown in Power BI`:
 
   ![image](https://user-images.githubusercontent.com/62806731/207005022-2eb030e1-d27e-4968-b274-ed687d8b8672.png)
 
