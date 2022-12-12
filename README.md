@@ -1,13 +1,13 @@
 # Sales Insights Data Analytics Project.
 
-Using the data analytics life cycle, going step by step for solving the business problem, these steps are:
+### Using the data analytics life cycle, going step by step for solving the business problem, these steps are:
 
-  1 - Understanding Business Problem.                                                                                                                              
-  2 - Data Collecing and Preperation.                                                                                                                              
-  3 - Data Processing.                                                                                                                                             
-  4 - Data Analysis, Cleaning and ETL.                                                                                                                              
-  5 - Building and Sharing Dashboard.                                                                                                                               
-  6 - Stakeholders Feedback and Analysis Profit.                                                                                                                     
+1 - Understanding Business Problem.                                                                                                                              
+2 - Data Collecing and Preperation.                                                                                                                              
+3 - Data Processing.                                                                                                                                             
+4 - Data Analysis, Cleaning and ETL.                                                                                                                              
+5 - Building and Sharing Dashboard.                                                                                                                               
+6 - Stakeholders Feedback and Analysis Profit.                                                                                                                     
 
 ### 1 - Understanding Business Problem.
 
