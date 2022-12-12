@@ -87,6 +87,8 @@ Start by plugging SQL Databse to MS Power BI, this process is also known as data
 
    * Filtering the markets that only located in India.
    * Filtering all the `sales_amount` less than `1`.
+   * Normalizing `sales_amount` values to `INR`.
+   * Removing all duplicates records.
 
 
 
