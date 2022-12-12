@@ -19,7 +19,7 @@ After examinings the overall scope of the work, business objectives and informat
 
 ### 2 - Data Collecing and Preperation.
 
-The data required for the analsis is available at mysql database server that is owned by the company, this database has all sales transactions, customers, products and markets information, the initial appropriate method for the analysis is using SQL queries.
+The data required for the analsis is available at [MySQL](https://www.mysql.com/) database server that is owned by the company, this database has all sales transactions, customers, products and markets information, the initial appropriate method for the analysis is using SQL queries.
 
 ### 3 - Data Processing.
 
