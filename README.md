@@ -72,7 +72,7 @@
 
 * Data Model and Star Schema as shown in Power BI:
 
-![image](https://user-images.githubusercontent.com/62806731/206850732-294698c7-b8cb-43bc-b9a8-0f276127415b.png)
+  ![image](https://user-images.githubusercontent.com/62806731/206850732-294698c7-b8cb-43bc-b9a8-0f276127415b.png)
 
   Start The ETL and Data Cleaning Process using `Power Query` to `connect`, `prepare` and `transform` our data, and the result of using Power Query will be the following:
 
