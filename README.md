@@ -2,12 +2,12 @@
 
 Using the data analytics life cycle, going step by step for solving the business problem, these steps are:
 
-* Understanding Business Problem.
-* Data Collecing and Preperation.
-* Data Processing.
-* Data Analysis, Cleaning and ETL.
-* Building and Sharing Dashboard.
-* Stakeholders Feedback and Analysis Profit.
+1 - Understanding Business Problem.
+2 - Data Collecing and Preperation.
+3 - Data Processing.
+4 - Data Analysis, Cleaning and ETL.
+5 - Building and Sharing Dashboard.
+6 - Stakeholders Feedback and Analysis Profit.
 
 ### 1 - Understanding Business Problem.
 
