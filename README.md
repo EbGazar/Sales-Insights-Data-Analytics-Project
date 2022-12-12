@@ -29,7 +29,7 @@ For the data understanding part, using sql to determine data availability and ex
 
 ![image](https://user-images.githubusercontent.com/62806731/206692756-d8b0f717-c4fc-4ff9-8809-b2087f58f07b.png)
 
-<img src="https://user-images.githubusercontent.com/62806731/206692756-d8b0f717-c4fc-4ff9-8809-b2087f58f07b.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/62806731/206692756-d8b0f717-c4fc-4ff9-8809-b2087f58f07b.png" width="250" height="150">
   
 `SELECT * FROM sales.customers LIMIT 5;`
  
