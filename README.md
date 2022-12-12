@@ -1,25 +1,25 @@
-## Sales Insights Data Analytics Project.
+# Sales Insights Data Analytics Project.
 
 Using the data analytics life cycle, going step by step for solving the business problem, these steps are:
 
 * Understanding Business Problem.
 * Data Understanding and Preperation.
 
-### 1 - Understanding Business Problem.
+## 1 - Understanding Business Problem.
 
 A Hardware Company in India which supplies computer hardware and peropherals is facing issues with tracking their sales and getting insights (Complete Picture) from the of market Computer Hardware which is growing dramatically.
 
-#### 1.1 - Stakeholders Expectations and Business Objectives.
+## 1.1 - Stakeholders Expectations and Business Objectives.
 
 After examinings the overall scope of the work, business objectives and information, the stakeholders are seeking a simple, understandable insights, specifically a dashboard which supports the latest insights from sales revenue and so on, so that they can take actual data driven descision based on this dashboard and so they can increase the sales of the company.
 
-### 1.2 - Gather Required Information.
+## 1.2 - Gather Required Information.
 
-* The data required for the analsis is available at mysql database server that is owned by the company, this database has all sales transactions, customers, products and markets information, the initial appropriate method for the analysis is using SQL queries.
+The data required for the analsis is available at mysql database server that is owned by the company, this database has all sales transactions, customers, products and markets information, the initial appropriate method for the analysis is using SQL queries.
 
-### 2 -  Data Understanding.
+## 2 -  Data Understanding.
 
-* For the data understanding part, using sql to determine data availability and explore data and it's characteristics, for this part we will strat using SQL Queries Statements:
+For the data understanding part, using sql to determine data availability and explore data and it's characteristics, for this part we will strat using SQL Queries Statements:
 
 `SELECT COUNT(*) FROM sales.transactions;`
 
@@ -71,11 +71,11 @@ After examinings the overall scope of the work, business objectives and informat
 
 </details>
 
-### 2.1 - Data Cleaning and ETL using Power BI.
+## 2.1 - Data Cleaning and ETL using Power BI.
 
-* Start by plugging SQL Databse to MS Power BI, this process is also known as data munging or data wrangling, As appear from the SQL Queries the data is messy and contains some inconsistent values as `sales_amount` contains values in both `USD` and `INR` and these values need to be transformed to get the right results from the analysis.
+Start by plugging SQL Databse to MS Power BI, this process is also known as data munging or data wrangling, As appear from the SQL Queries the data is messy and contains some inconsistent values as `sales_amount` contains values in both `USD` and `INR` and these values need to be transformed to get the right results from the analysis.
 
-* Data Model and Star Schema as shown in Power BI:
+Data Model and Star Schema as shown in Power BI:
 
   ![image](https://user-images.githubusercontent.com/62806731/207005022-2eb030e1-d27e-4968-b274-ed687d8b8672.png)
 
