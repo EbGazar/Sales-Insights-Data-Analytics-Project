@@ -1,6 +1,6 @@
 # Sales Insights Data Analytics Project.
 
-* Using the data analytics life cycle, going step by step for solving the business problem, these steps are:
+Using the data analytics life cycle, going step by step for solving the business problem, these steps are:
 
 1 - Understanding Business Problem.                                                                                                                           
 2 - Data Collecing and Preperation.                                                                                                                              
