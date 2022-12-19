@@ -25,7 +25,7 @@ The data required for the analsis is available at [MySQL](https://www.mysql.com/
 
 For the data understanding part, using sql to determine data availability and explore data and it's characteristics, for this part we will strat using SQL Queries Statements:
 
-* `SELECT COUNT(*) FROM sales.transactions;`
+* ```sql SELECT COUNT(*) FROM sales.transactions;```
 
 ![image](https://user-images.githubusercontent.com/62806731/206692756-d8b0f717-c4fc-4ff9-8809-b2087f58f07b.png)
   
