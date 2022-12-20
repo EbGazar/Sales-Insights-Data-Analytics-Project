@@ -13,7 +13,7 @@ Using the data analytics life cycle, going step by step for solving the business
 
 A Hardware Company in India which supplies computer hardware and peropherals is facing issues with tracking their sales and getting insights (Complete Picture) from the of market Computer Hardware which is growing dramatically.
 
-#### Stakeholders Expectations and Business Objectives.
+#### [Stakeholders Expectations and Business Objectives].
 
 After examinings the overall scope of the work, business objectives and information, the stakeholders are seeking a simple, understandable insights, specifically a dashboard which supports the latest insights from sales revenue and so on, so that they can take actual data driven descision based on this dashboard and so they can increase the sales of the company.
 
