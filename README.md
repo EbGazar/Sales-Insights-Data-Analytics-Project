@@ -17,7 +17,7 @@ A Hardware Company in India which supplies computer hardware and peropherals is 
 
    * After examinings the overall scope of the work, business objectives and information, the stakeholders are seeking a simple, understandable insights, specifically a dashboard which supports the latest insights from sales revenue and so on, so that they can take actual data driven descision based on this dashboard and so they can increase the sales of the company.
 
-### 2 - Data Collecing.
+### 2 - Data Collecting.
 
 The data required for the analsis is available at [MySQL](https://www.mysql.com/) database server that is owned by the company, this database has all sales transactions, customers, products and markets information, the initial appropriate method for the analysis is using SQL queries.
 
