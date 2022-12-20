@@ -109,6 +109,7 @@ Start by plugging SQL Databse to MS Power BI, this process is also known as data
    * Filtering all the `sales_amount` less than `1`.
    * Normalizing `sales_amount` values to `INR`.
    * Removing all duplicates records.
+   * <span style="color:blue"> (Building Dashboard) </span>
 
 ## 5 - Exploratory Analysis and Modeling <span style="color:blue"> (Building Dashboard) </span>:
 
