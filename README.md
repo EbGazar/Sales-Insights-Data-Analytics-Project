@@ -110,7 +110,7 @@ Start by plugging SQL Databse to MS Power BI, this process is also known as data
    * Normalizing `sales_amount` values to `INR`.
    * Removing all duplicates records.
 
-## 5 - Exploratory Analysis and Modeling <span style="color:red">(Building Dashboard)</span>:
+## 5 - Exploratory Analysis and Modeling <span style="color:blue"> (Building Dashboard) </span>:
 
 
 
