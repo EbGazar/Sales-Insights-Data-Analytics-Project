@@ -112,5 +112,7 @@ Start by plugging SQL Databse to MS Power BI, this process is also known as data
 
 ## 5 - Exploratory Analysis and Modeling (Building Dashboard):
 
+using [Power BI](https://powerbi.microsoft.com/en-au/) I created the following Dashboard:
+![Screenshot 2022-12-21 174332](https://user-images.githubusercontent.com/62806731/208946051-b9c225ff-d00a-4b48-8513-a7655c5feb8e.png)
 
 
